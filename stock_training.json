@@ -381,7 +381,7 @@
         "entities": []
       }, 
       {
-        "text": "stop", 
+        "text": "no", 
         "intent": "goodbye", 
         "entities": []
       }, 
