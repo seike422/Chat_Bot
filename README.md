@@ -36,7 +36,6 @@ The python version is 3.6 for this project.
 python3 stock_chat.py
 ```
 
-## Sample Dialogue
 
 ## Features
 
