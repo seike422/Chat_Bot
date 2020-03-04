@@ -1,4 +1,3 @@
-from datetime import datetime
 from iexfinance.stocks import Stock
 from iexfinance.refdata import get_symbols
 from rasa_nlu.training_data import load_data
